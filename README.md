@@ -1,6 +1,6 @@
 # tip_calculator_app
 
-A new Flutter project.
+This is a simple tip calculator app by which you can enter the total amount and find the tip amount in return .
 
 ## Getting Started
 
